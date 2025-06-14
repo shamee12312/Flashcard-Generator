@@ -2,9 +2,9 @@
 
 An intelligent flashcard generation tool that converts educational content into effective Q&A flashcards using Google's Gemini AI and Streamlit.
 
-# Website Link = [https://flashcard-generator.replit.app/]
-# Github Link = [https://github.com/shamee12312/Flashcard-Generator]
-# Video Link  = [https://drive.google.com/file/d/1qVy_WaYIPYddSIr6o-sFvrCrNJuYMR9i/view?usp=sharing]
+ Website Link = [https://flashcard-generator.replit.app/]
+ Github Link = [https://github.com/shamee12312/Flashcard-Generator]
+ Video Link  = [https://drive.google.com/file/d/1qVy_WaYIPYddSIr6o-sFvrCrNJuYMR9i/view?usp=sharing]
 ## Features
 
 - **Smart Content Processing**: Upload PDF files or paste text directly
